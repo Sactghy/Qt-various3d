@@ -1,6 +1,6 @@
 # various3d
 
-various 3d stuff
+various 3d shapes
 
 requires : Qt 5.15.2, 10 threads
 
