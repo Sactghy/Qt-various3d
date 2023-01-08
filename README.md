@@ -1,5 +1,7 @@
 # various3d
 
+various 3d shapes
+
 requires : Qt 5.15.2, 10 threads
 
-space key : when the graphicsview has the focus ( default ) - enables/disables sending mouse signals
+space key : enables/disables sending mouse signals if the graphicsview has the focus ( default ) 
