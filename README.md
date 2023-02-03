@@ -1,6 +1,6 @@
 # various3d
 
-various 3d shapes
+custom 3d engine & various shapes
 
 requires : Qt 5.15.2, 10 threads
 
