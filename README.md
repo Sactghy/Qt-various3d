@@ -1,6 +1,6 @@
 # various3d
 
-custom 3d engine & various shapes
+raytracer / raymarcher + various shapes
 
 requires : Qt 5.15.2, 10 threads
 
